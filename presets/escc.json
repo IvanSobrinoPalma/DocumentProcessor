@@ -15,7 +15,6 @@
         "end_key": null
     },
     "formatter_config": {
-        "regex": "[A-Z][a-zA-Z ]+(?=:)",
         "title": "(?:[0-9 ]+)?[A-Z][a-zA-Z -]+(?=:$)",
         "manufacture": "[^ ,][a-zA-Z!@#$&()\\-`+\\\u2019 ]+\\([a-zA-Z]+\\)",
         "certificate": "\\d{2,3}[A-Z](?:[rev]{3}\\d)?(?=, )",
